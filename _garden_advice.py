@@ -4,6 +4,7 @@ This script asks the user for a month and season, validates the input,
 and then prints gardening tips for each.
 """
 
+# Advice is stored in dictionaries to avoid hardcoded output logic in condition chains.
 MONTH_ADVICE = {
     "january": "Plan your garden layout and order seeds early.",
     "february": "Start sowing seeds indoors for spring crops.",
