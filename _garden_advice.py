@@ -1,5 +1,11 @@
 """Provide gardening advice based on the month and season.
 
+# TODO / Completion Log
+# [Completed 2026-03-23] Refactored code into reusable functions.
+# [Completed 2026-03-23] Replaced hardcoded conditional logic with dictionaries.
+# [Completed 2026-03-23] Added input validation for invalid month and season.
+# [Completed 2026-03-23] Added documentation/comments for clarity.
+
 This script asks the user for a month and season, validates the input,
 and then prints gardening tips for each.
 """
